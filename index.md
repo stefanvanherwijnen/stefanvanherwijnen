@@ -1,2 +1,2 @@
 ## Welcome
-[Virtual prisms for Three.js](https://stefanvanherwijnen.github.io/virtualprisms/)
+[WebGL Virtual prisms](https://stefanvanherwijnen.github.io/virtualprisms/)
